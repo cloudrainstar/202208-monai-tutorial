@@ -2,7 +2,10 @@
 classification/chest_xray
 detection/logs
 detection/Task09_Spleen
+detection/._Task09_Spleen
+*.tar
 *.pth
+*.pt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
