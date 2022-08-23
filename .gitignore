@@ -1,3 +1,9 @@
+# Project data
+classification/chest_xray
+detection/logs
+detection/Task09_Spleen
+*.pth
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
