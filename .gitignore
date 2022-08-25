@@ -4,6 +4,7 @@ classification/output
 detection/logs
 detection/Task09_Spleen
 detection/._Task09_Spleen
+detection/output
 *.tar
 *.pth
 *.pt
